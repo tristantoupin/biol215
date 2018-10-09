@@ -14,7 +14,9 @@ Lecture Room: STBIO N6/12
 #### Tries to answer these question:
 
 > How did this diversity originate?
+
 > How is it maintained?
+
 > What are its consequences?
 
 #### Scientific Method
