@@ -9,12 +9,14 @@ Lecture Room: STBIO N6/12
 ### Origin of Elements and Earth
 
 #### Chronological HIstory of Earth
-|__4.6 b.y.a.__ | Origin of Earth|
-|__4.5 b.y.a. to 1.5 b.y.a.__ | Archean|
-|__1.5 b.y.a. to 0.5 b.y.a.__ | Proterozoic|
-|__0.5 b.y.a. to 250 m.y.a.__ | Paleozoic|
-|__250 m.y.a. to 65 m.y.a.__ | Mesozoic|
-|__65 m.y.a. to Now__ | Ceonozoic|
+| Time                        |      Era       |
+|-----------------------------|---------------:| 
+|__4.6 b.y.a.__               | Origin of Earth|
+|__4.5 b.y.a. to 1.5 b.y.a.__ | Archean        |
+|__1.5 b.y.a. to 0.5 b.y.a.__ | Proterozoic    |
+|__0.5 b.y.a. to 250 m.y.a.__ | Paleozoic      |
+|__250 m.y.a. to 65 m.y.a.__  | Mesozoic       |
+|__65 m.y.a. to Now__         | Ceonozoic      |
 
 #### Big Bang Theory
   * Between 10 and 15 Billion years ago.
