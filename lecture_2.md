@@ -9,23 +9,18 @@ Lecture Room: STBIO N6/12
 ### Origin of Elements and Earth
 
 #### Chronological HIstory of Earth
-__4.6 b.y.a.__ Origin of Earth
-
-__4.5 b.y.a. to 1.5 b.y.a.__ Archean
-
-__1.5 b.y.a. to 0.5 b.y.a.__ Proterozoic
-
-__0.5 b.y.a. to 250 m.y.a.__ Paleozoic
-
-__250 m.y.a. to 65 m.y.a.__ Mesozoic
-
-__65 m.y.a. to Now__ Ceonozoic
+|__4.6 b.y.a.__ | Origin of Earth|
+|__4.5 b.y.a. to 1.5 b.y.a.__ | Archean|
+|__1.5 b.y.a. to 0.5 b.y.a.__ | Proterozoic|
+|__0.5 b.y.a. to 250 m.y.a.__ | Paleozoic|
+|__250 m.y.a. to 65 m.y.a.__ | Mesozoic|
+|__65 m.y.a. to Now__ | Ceonozoic|
 
 #### Big Bang Theory
   * Between 10 and 15 Billion years ago.
-  * <sup>1<\sup>H and <sup>4<\sup>He are created.
+  * <sup>1</sup>H and <sup>4</sup>He are created.
   * Formation of photostars
-  * Photostars burn and create heavier elements (up to <sup>26<\sup>Fe
+  * Photostars burn and create heavier elements (up to <sup>26</sup>Fe
   * Photostar explodes as supernova and create our system solar around 4.6 b.y.a.
 
 #### Earth's Formation
@@ -41,13 +36,14 @@ __65 m.y.a. to Now__ Ceonozoic
 ### Primitive Earth's Atmosphere and Ocean
 
 #### Atmosphere
-  * Earth's first atmosphere was made of H<sub>2<\sub> and He
+  * Earth's first atmosphere was made of H<sub>2</sub> and He
   * Between 4.5 and 3.8 b.y.a. many meteors crash on the planet bringning frozen gases
   * Volcanic activities generated more gases on earth (80% vs 20% for meteors)
-  * CO<sub>2<\sub> at high level (100 to 1000 times more than today)
-  * N<sub>2<\sub> and H<sub>2<\sub>O plus traces of H<sub>2<\sub>, S, amonia and methane.
+  * CO<sub>2</
+    sub> at high level (100 to 1000 times more than today)
+  * N<sub>2</sub> and H<sub>2</sub>O plus traces of H<sub>2</sub>, S, amonia and methane.
 
-__note__: No free O<sub>2<\sub>, great because it could've prevent the build-up of organic molecule
+__note__: No free O<sub>2</sub>, great because it could've prevent the build-up of organic molecule
   
   * Atmospheric composition changes:
   
