@@ -21,19 +21,19 @@ Lecture Room: STBIO N6/12
 
 Organisms can be classified by how the get their energy.
 
-__1. Autotrophs (self-feeders):__
+###### __1. Autotrophs (self-feeders):__
 
-  1.1 Photosynthetic
-      * From light (PAR 400-700nm)
+      1.1 Photosynthetic
+          * From light (PAR 400-700nm)
       
-  1.2 Chemoautotroph
-      * From inorganic molecues by chemical bond energy
-      * e.g. H<sub>2</sub>, H<sub>2</sub>S, NH<sub>2<sup>+</sup></sub>, Fe(II), etc
+      1.2 Chemoautotroph
+          * From inorganic molecues by chemical bond energy
+          * e.g. H<sub>2</sub>, H<sub>2</sub>S, NH<sub>2<sup>+</sup></sub>, Fe(II), etc
       
-__2. Heterotrophs (other-feeders):__
+###### __2. Heterotrophs (other-feeders):__
   
-  * Organic molecules for energy and C (Carbohydrates, proteins, fats)
-  * e.g. Herbivores, Carnivores, Omnivores, Detritivores, Saprovores
+      * Organic molecules for energy and C (Carbohydrates, proteins, fats)
+      * e.g. Herbivores, Carnivores, Omnivores, Detritivores, Saprovores
   
 ##### Why is Energy so Important?
 
@@ -113,7 +113,7 @@ __Note:__ The first organisms may have been similar to Methanococcus (Type of co
 |-----|-----|
 |![alt text](lecture_data/eukaryotic_cell.png "Eukaryotic Cell") | ![alt text](lecture_data/prokaryotic_cell.png "Prokaryotic Cell")|
 
-#### Endosymbiotic (a.k.a. Theory of Origin of Eucaryotes
+#### Endosymbiotic (a.k.a. Theory of Origin of Eucaryotes)
 
 1. First theory; Proposed by Lynn Margulis
   * Mitochondria and chloroplasts of eucaryotes were engulfed by and Archaea and evolved in obligatory symbiosis
