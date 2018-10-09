@@ -7,20 +7,20 @@ Lecture Room: STBIO N6/12
 
 ### What is Ecology and Evolution?
 #### Definitions
-> Study relationships between organisms and their environment.
+  * Study relationships between organisms and their environment.
 
-> They are intimately linked
+  * They are intimately linked
 
 #### Tries to answer these question:
-> How did this diversity originate?
+  * How did this diversity originate?
 
-> How is it maintained?
+  * How is it maintained?
 
-> What are its consequences?
+  * What are its consequences?
 
 #### Scientific Method
 Ecology and Evolution both use the scientific method. (see below)
-![alt text](lecture_1_data/scientific_method.png "Scientific methodology")
+![alt text](lecture_data/scientific_method.png "Scientific methodology")
 
 #### People Studying Ecology and Evolution
   * Ecologist
@@ -40,12 +40,17 @@ Ecology and Evolution both use the scientific method. (see below)
 
 ### Price Research Program (a.k.a. Fe-Enrichment Experiment)
 __Goal__: Observe effect of resource regularization of phytoplankton growth.
+
 __Location__ : Antartica.
+
 __Methodology__: 
 1. Collection of clean water sample.
 2. Add Iron sample to some sample and leave the rest untouched.
 3. Observe results.
+
 __Note__: The true test of the Iron hypothesis is a large-scale open-ocean experiemnts.
+
 __Results__:
 Correlation between Iron in water and particulate organic matter in water.
-![alt text](lecture_1_data/fe_experiment.png "Fe-Enrichment Experiment Results")
+
+![alt text](lecture_data/fe_experiment.png "Fe-Enrichment Experiment Results")
