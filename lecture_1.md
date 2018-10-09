@@ -40,9 +40,9 @@ Ecology and Evolution both use the scientific method. (see below)
 
 #### Ways to Study Evolution
 
-..* Fossil (molecular) records
-..* Evolution in real time (experimental evolution)
-..* Evo-Devo is the study of genes important in evolution
+  * Fossil (molecular) records
+  * Evolution in real time (experimental evolution)
+  * Evo-Devo is the study of genes important in evolution
 
 
 ### Price Research Program (a.k.a. Fe-Enrichment Experiment)
