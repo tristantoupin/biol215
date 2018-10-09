@@ -110,7 +110,7 @@ __Note:__ The first organisms may have been similar to Methanococcus (Type of co
   * Analyse the differences between an Eukaryotic (animal) cell (A) and a Prokaryotic cell (B)
   
 | (A) | (B) |
-|-----|----:|
+|-----|-----|
 |![alt text](lecture_data/eukaryotic_cell.png "Eukaryotic Cell") | ![alt text](lecture_data/prokaryotic_cell.png "Prokaryotic Cell")|
 
 #### Endosymbiotic (a.k.a. Theory of Origin of Eucaryotes
