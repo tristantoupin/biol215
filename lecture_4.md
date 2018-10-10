@@ -99,12 +99,14 @@
   > They are parasitic organism and includes flagellated and obligate anaerobes
   
   > An example of excavates are _Trichonympha_. It inhabits ternite guts.
-  ![alt text](lecture_data/trychonympha.png "Trichonympha")
+  
+  ![alt text](lecture_data/Trychonympha.png "Trichonympha")
   
   > Another example of excavates are _Trypanosoma_. They are a causative agent of sleeping sickness. Here are some images:
+  
   | (A) | (B) |
   |-----|-----|
-  |![alt text](lecture_data/trypanosoma_1.png "Trypanosoma") | ![alt text](lecture_data/trypanosoma_2.png "Trypanosoma Anatomy")|
+  |![alt text](lecture_data/Trypanosoma_1.png "Trypanosoma") | ![alt text](lecture_data/Trypanosoma_1.png "Trypanosoma Anatomy")|
 
 ##### Chromalveolates
 
@@ -113,11 +115,13 @@
   > They are primary producers and consumers of planktonic communities of lakes and oceans.
   
   > An example of this are Avelolates. One kind of Avelolates are Dinoflagellates. It is a heterotrophic and phototrophic species. Some species are symbionts of invertebrates (corals). The Dinoflagelates may cause the tide (water) to have a red tone. Another example of Avelolates are Apicomplexa. They are obligate parasites of animals (e.g. malaria). Here are images of a (A) Dinoflagellates and an (B) Apicomplexa:
+  
   | (A) | (B) |
   |-----|-----|
   |![alt text](lecture_data/avelolates.png "Avelolate") | ![alt text](lecture_data/apicomplexa.png "Apicomplexa")|
   
   > Another example are the Stramenophiles. An example of Stramenophiles are Diatoms. There are 10'000 species found in diverse aquatic environments.  THhey are responsible for 25% of global primary production. They have a silica (glass) exoskeleton (a.k.a. frustule). Only the males have flagellum. Here are some images:
+  
   | (A) | (B) | (C) |
   |-----|-----|-----|
   |![alt text](lecture_data/diatoms_1.png "Diatom") | ![alt text](lecture_data/diatoms_2.png "Diatom")|![alt text](lecture_data/diatoms_3.png "Diatom") |
@@ -146,6 +150,7 @@
   > They can be unicellular, colonial or multicellular.
   
   > The Chlorophyta is an example of Plantae. _Chara_ is a distinct genus of Chlorophyta that has distinct reproductive stuctures that contain eggs (oocyte). Some Chlorophyta have advanced reproductive features. Here are images of Chlorophyta:
+  
   | (A) | (B) |
   |-----|-----|
   |![alt text](lecture_data/Chlorophyta_1.png "Chlorophyta") | ![alt text](lecture_data/Chlorophyta_2.png "Chlorophyta")|
