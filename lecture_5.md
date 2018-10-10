@@ -49,9 +49,9 @@
 
 ### Fungi
 
-| Name | Image | More Info |
-|------|-------|-----------|
-| Coprinus Mushroom | ![alt text](lecture_data/Coprinus.png "Coprinus Mushroom")| N/A check the image for any pertinent info. |
+| Name | Drawing | Image |
+|------|---------|-------|
+| Coprinus Mushroom | ![alt text](lecture_data/Coprinus_1.png "Drawing of Coprinus Mushroom")| ![alt text](lecture_data/Coprinus.png "Coprinus Mushroom")|
 
 ### Red and Green Algae
 
