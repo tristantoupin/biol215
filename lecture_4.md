@@ -48,7 +48,7 @@
 
   > There are 3 majors groups: Euryarchaeota, Crenarchaeota, Korarchaeota.
   
-##### Euryarchaeota
+##### 1.1 Euryarchaeota
 
   > Contains methanogens and halophils. The methanogens release methane (CH<sub>4</sub>). The Halophils grown in salt water (up to 23% NaCl)
   
@@ -92,7 +92,7 @@
   
   > Now we divide them in 5 groups: (1) Excavates, (2) Chromalveolates, (3) Rhizaria, (4) Archeplastida (a.k.a. Plantae) and (5) Unikonts
   
-##### Excavates
+##### 3.1 Excavates
 
   > They do not have a single morphological feature common to all. It is a diverse group.
   
@@ -100,15 +100,15 @@
   
   > An example of excavates are _Trichonympha_. It inhabits ternite guts.
   
-  ![alt text](lecture_data/Trychonympha.png "Trichonympha")
+  ![alt text](lecture_data/Trichonympha.png "Trichonympha")
   
   > Another example of excavates are _Trypanosoma_. They are a causative agent of sleeping sickness. Here are some images:
   
   | (A) | (B) |
   |-----|-----|
-  |![alt text](lecture_data/Trypanosoma_1.png "Trypanosoma") | ![alt text](lecture_data/Trypanosoma_1.png "Trypanosoma Anatomy")|
+  |![alt text](lecture_data/Trypanosoma_1.png "Trypanosoma") | ![alt text](lecture_data/Trypanosoma_2.png "Trypanosoma Anatomy")|
 
-##### Chromalveolates
+##### 3.2 Chromalveolates
 
   > This is a super group that contains 23 previous groups. For example Algae and some non-photosynthetic groups.
   
@@ -129,7 +129,7 @@
   > Another example of Stramenophiles are Oomycetes. They are water molds. They have filaments and produce flagellated zoospores. They cause many agrecultural diseases. Here's a photo of and Oomycetes:
   ![alt text](lecture_data/oomycetes.png "Oomycete") 
   
-##### Rhizaria
+##### 3.3 Rhizaria
 
   > They are group together because of their molecular data. They do not share any morphological features.
   
@@ -139,7 +139,7 @@
   
   > They are mostly found in water near Mexico, the mediterania, the indian ocean and then the pacific ocean. Rare in the extreme north and extreme parts of the oceans.
 
-##### Plantae (a.k.a. Archeplastida)
+##### 3.4 Plantae (a.k.a. Archeplastida)
 
   > They include red and green algae, land plants and Charophytes.
   
@@ -156,7 +156,7 @@
   |![alt text](lecture_data/Chlorophyta_1.png "Chlorophyta") | ![alt text](lecture_data/Chlorophyta_2.png "Chlorophyta")|
   
   
-##### Unikonts
+##### 3.5 Unikonts
 
   > They include parasitic protists, slime molds, amoebae, animals and also fungi. They also include _choanoflagellates_ that ressemble to sponges.
   
