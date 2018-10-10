@@ -51,7 +51,7 @@
 
 | Name | Drawing | Image |
 |------|---------|-------|
-| Coprinus Mushroom | ![alt text](lecture_data/Coprinus_1.png "Drawing of Coprinus Mushroom")| ![alt text](lecture_data/Coprinus.png "Coprinus Mushroom")|
+| Coprinus Mushroom | ![alt text](lecture_data/Coprinus.png "Drawing of Coprinus Mushroom")| ![alt text](lecture_data/Coprinus_1.png "Coprinus Mushroom")|
 
 ### Red and Green Algae
 
