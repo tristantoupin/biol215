@@ -22,21 +22,21 @@ Lecture Room: STBIO N6/12
   
 ### Ancestral Organism and the Universal Tree of Life (a.k.a. UToL)
 
-    #### Last Universal Common Ancestor (LUCA)
+#### Last Universal Common Ancestor (LUCA)
 
-      > All organisms diverged from a common ancestor.
+  > All organisms diverged from a common ancestor.
 
-      > They all share: genetic code, mode of DNA replication, protein-synthesizing system, metabolic pathways, lipid bilayer and active transport.
+  > They all share: genetic code, mode of DNA replication, protein-synthesizing system, metabolic pathways, lipid bilayer and active transport.
 
-    #### Molecular Phylogeny (a.k.a. Molecula Ancestry)
+#### Molecular Phylogeny (a.k.a. Molecula Ancestry)
 
-      > RNA gene sequence identifies 3 major lineages:<br/>
-          * Bacteria (prokaryote)
-          * Archaea (prokaryote)
-          * Eucarya (eukaryote)
+  > RNA gene sequence identifies 3 major lineages:<br/>
+      * Bacteria (prokaryote)
+      * Archaea (prokaryote)
+      * Eucarya (eukaryote)
 
-      > See the image for visual support
-    ![alt text](lecture_data/common_ancestors.png "Common Ancestors")
+  > See the image for visual support
+![alt text](lecture_data/common_ancestors.png "Common Ancestors")
 
 
 ### Horizontal Gene Transfer (a.k.a. HGT)
