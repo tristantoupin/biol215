@@ -2,10 +2,6 @@
 
 >  __Adaptive Radiation:__ Evolutionary divergence of members of a single phylogenetic lineage into a variety of different adaptive forms over a relatively short interval of geological time.
 
-## Advantages of Multicellularity
-
-
-
 
 ## Cambrian Radiation in Detail
 
