@@ -115,7 +115,7 @@ There are 2 controversies motivating Gould's and Conway Morris' theories:
 |:---------------|-------|:------|
 | __Engrailed__ | ![alt text](lecture_data/engrailed_1.png "Engrailed") ![alt text](lecture_data/engrailed_2.png "Engrailed") | N/A |
 | __Pax6/eyeless__ | ![alt text](lecture_data/pax6.png "Pax6") ![alt text](lecture_data/pax6_2.png "Pax6") | The second image show that by adding the gene Pax6, we can grow eye anywhere on a body. |
-| __Homeobox__ | ![alt text](lecture_data/homeobox.png "Pax6") | Homeobox is a class of closely related sequence which occurs in various genes. |
+| __Homeobox__ | ![alt text](lecture_data/homeobox.png "Pax6") | Homeobox is a class of closely related sequence which occurs in various genes accross species. |
 
 
 
