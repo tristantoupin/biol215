@@ -25,6 +25,7 @@
 
   > Radiation is appends because organism try to fill previously unavailable niches. It is a competitive advantage and release the specie from some competition.
   
+  
 ### The Ediacaran Biota
 
   > The Ediacaran Biota is a diverse and enigmatic assemble of organisms. __They are not animals.__
@@ -61,14 +62,60 @@ Here are some Ediacarans:
 | Anomalocaris | ![alt text](lecture_data/fossil_anomalocaris.png "Fossil of an Anomalocaris") | ![alt text](lecture_data/Anomalocaris.png "Anomalocaris") | It could be an early arthropod. |
 | Opabinia | ![alt text](lecture_data/fossil_Opabinia.png "Fossil of an Opabinia") | ![alt text](lecture_data/Opabinia.png "Opabinia") | It could be an early arthropod. |
 | Wiwaxia | ![alt text](lecture_data/fossil_Wiwaxia.png "Fossil of an Wiwaxia") | ![alt text](lecture_data/Wiwaxia.png "Wiwaxia") | It could be an polychaete worm. |
-| Pikaia | ![alt text](lecture_data/fossil_Pikaia.png "Fossil of an Pikaia") | ![alt text](lecture_data/Pikaia.png "Pikaia") | It could be an early chordate. |
+| Pikaia | ![alt text](lecture_data/fossil_Pikaia.png "Fossil of an Pikaia") | ![alt text](lecture_data/Pikaia.png "Wiwaxia") | It could be an early chordate. |
 
 
+### Interpritation of the Ediacara and Burgess Shale Fauna
+
+There are 2 controversies motivating Gould's and Conway Morris' theories:
+
+  * Interpretation
+  * Timing
+
+#### Gould's Interpretation
+
+  > Gould believe that Edicaran and the Burgess Shale fauna share a common ancestor with the modern animals. 
+  ![alt text](lecture_data/gould.png "Gould's interpretation")
+  
+  
+#### Conway Morris' Interpretation
+
+  > Conway Morris believe that Edicaran and the Burgess Shale fauna are the ancestor of the modern animals. 
+  ![alt text](lecture_data/conway.png "Conway Morris' interpretation")
 
 
+## Oberservation with Multicellularity
+
+  > There is a correlation between the number of nucleotide substitutions and time. The further in the past we go, the more substitutions there are
+  
+  > There is a correlation between the number of amono acid different from the humain and the hemoglobin polypeptide and time. The larger difference is the further in time we go.
+  
+  > There is a correlation between the number of substitutions and the time between common ancestor. The older the common ancestor is the more substitution the is.
+  
+  
+## Cause of Cambrian Explosion
+
+  > Gene regulation is the central mechanism explaining the developmental and evolutionary changes.
+  
+  > Jacob reffers to evelotion as being a bricolage (tinkering). This term rightly places the emphasis on modification of exiting genes.
+  
+  > The global geological conditions were good.
+  
+  > Rising of oxigen levels.
+  
+  > Predator-prey relationships.
+  
+  > Developmental tool kit of genes.
+  
+  
+## Highly Conserved Genes Accross all Animals
 
 
-
+| Gene Conserved | Image | Notes |
+|:---------------|-------|:------|
+| __Engrailed__ | ![alt text](lecture_data/engrailed_1.png "Engrailed") ![alt text](lecture_data/engrailed_2.png "Engrailed") | N/A |
+| __Pax6/eyeless__ | ![alt text](lecture_data/pax6.png "Pax6") ![alt text](lecture_data/pax6_2.png "Pax6") | The second image show that by adding the gene Pax6, we can grow eye anywhere on a body. |
+| __Homeobox__ | ![alt text](lecture_data/homeobox.png "Pax6") | Homeobox is a class of closely related sequence which occurs in various genes. |
 
 
 
