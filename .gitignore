@@ -1,5 +1,5 @@
 Lecture_*.pdf
-./gitignore
+.gitignore
 *Icon*
 bin/
 
