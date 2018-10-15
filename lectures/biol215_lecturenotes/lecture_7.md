@@ -42,7 +42,6 @@
   > There are 3 regulatory mechanisms that control transcription of DNA tp mRNA: (1) cis-, (2) trans- and RNAi-regulation.
   
   > There is a fourth regulatory mechanisms called transposon. Transposons produce special transposase enzymes that allow it to insert copies of itself into various target sites in an organism's nuclear genome. Here's an image for visualization:
-  
   ![alt text](lecture_data/Transposons.png "Transposons") 
 
   > Eukaryotic genes also are regulates after mRNA has been produced by __post-transcriptional modification__. This is when proteins occur through different splicing patternsthat remove amino acid sequences, or by chemically odifying amino acid residues.
