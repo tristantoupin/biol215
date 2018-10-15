@@ -61,16 +61,22 @@
   ![alt text](lecture_data/bee_wtf.png "Homeotic Mutation")
   
 
+## Phenotypic Variation
+
 ### Phenotypic Variation due to Environment
 
-  > Epigenetic can mediate gene-by-environment. For instance, DNA Methultransferases is the process ofadding a H<sub>3</sub>C group to the gene transcription, which can be inherited. Here are images that proves the point:
+  > Epigenetic can mediate gene-by-environment. For instance, DNA Methyltransferases is the process ofadding a H<sub>3</sub>C group to the gene transcription, which can be inherited. Here are images that proves the point:
   
 | (A) | (B) |
 |-----|-----|
-| ![alt text](lecture_data/Methultransferases_1.png "Methultransferases") | ![alt text](lecture_data/Methultransferases_2.png "Ants worker size varies") |
+| ![alt text](lecture_data/Methultransferases_1.png "Methyltransferases") | ![alt text](lecture_data/Methultransferases_2.png "Ants worker size varies") |
+
+  > We can observe species of butterflies that changes colors depending on seasons.
 
 
 
+
+# *__I am at slide #48
 
 
 
