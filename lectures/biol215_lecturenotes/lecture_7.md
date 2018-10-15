@@ -46,6 +46,28 @@
 
   > Eukaryotic genes also are regulates after mRNA has been produced by __post-transcriptional modification__. This is when proteins occur through different splicing patternsthat remove amino acid sequences, or by chemically odifying amino acid residues.
 
+#### Hox Genes
+
+  > Hox genes are regulatory genes that act during to impart identity to regions along the body axis.
+  
+  > They determine during development three things: (1) Where paired wings form, (2) where lagsdevelop, (3) How flower parts are arranged.
+  
+  > The Hox Genes are conserved accross the animal kindom. Here's an image to prove it: 
+  ![alt text](lecture_data/hox_gene.png "Hox Genes")
+  
+#### Homeotic Mutation
+
+  > This type of transformation modifies the identity of one body part into another. Here's an example:
+  ![alt text](lecture_data/bee_wtf.png "Homeotic Mutation")
+  
+
+### Phenotypic Variation due to Environment
+
+  > Epigenetic can mediate gene-by-environment. For instance, DNA Methultransferases is the process ofadding a H<sub>3</sub>C group to the gene transcription, which can be inherited. Here are images that proves the point:
+  
+| (A) | (B) |
+|-----|-----|
+| ![alt text](lecture_data/Methultransferases_1.png "Methultransferases") | ![alt text](lecture_data/Methultransferases_2.png "Ants worker size varies") |
 
 
 
