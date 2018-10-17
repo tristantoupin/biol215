@@ -27,7 +27,7 @@
   
  
 
-| Change name | Characteristics | Example |
+| Change name &nbsp; &nbsp; &nbsp; &nbsp; | Characteristics &nbsp; &nbsp; &nbsp; &nbsp;| Example |
 |:------------|:----------------|---------|
 | Ancestral Colonial Choanoflagellates | <ul><li>They are either solitary or colonial.</li><li>They have flagella.</li><li>They are heterotroph, meaning they can't produce their own food.</li><li>They eat food by moving water towards them.</li></ul> |![alt text](lecture_data/Choanoflagellate_sol.png "Solitary Choanoflagellates") ![alt text](lecture_data/Choanoflagellate_col.png "Colonial Choanoflagellates") |
 | Parazoa | __Songes__:<br><ul><li>Choanocytes (type of flagellated cells).</li><li>Marine (lives in the water).</li><li>They are asymetrical.</li><li>No true tissues.</li></ul> |![alt text](lecture_data/sponges.png "Sponges") |
