@@ -24,8 +24,6 @@
   
   > Here's the tree to learn by heart:
   ![alt text](lecture_data/animal_tree.png "The ancestral tree of animals") 
-  
- 
 
 | Change name | Characteristics | Example |
 |:------------|:----------------|---------|
@@ -36,7 +34,6 @@
 | Lophotrochzoa |<ul><li>Some examples are the floatworms, clams, snails, rotifers and segmented worms.</li><li>Marine (lives in the water).</li><li>They have <b>tentacules surrounding their mouths</b>.</li></ul> |![alt text](lecture_data/Lophotrochzoa_1.png "Lophotrochzoa")![alt text](lecture_data/Lophotrochzoa_2.png "Lophotrochzoa")![alt text](lecture_data/Lophotrochzoa_3.png "Lophotrochzoa")![alt text](lecture_data/Lophotrochzoa_4.png "Lophotrochzoa") |
 | Ecdysozoa |<ul><li>Some examples are the insects, crustaceans and round worms.</li></ul> |![alt text](lecture_data/Ecdysozoa_1.png "Ecdysozoa")![alt text](lecture_data/Ecdysozoa_2.png "Ecdysozoa")![alt text](lecture_data/Ecdysozoa_3.png "Ecdysozoa") |
 | Deuterostomia |<ul><li>Some examples are the Kangourous, whales, frogs.</li></ul> |![alt text](lecture_data/Deuterostomia.png "Deuterostomia") |
-    
 
 
 ## Plants
@@ -75,33 +72,17 @@
   
 ## Fungi
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  > Fungi are not plants. They do not have chlorophyle nor photosynthesis. In fact, they are more closely related to animals than plants. Animals and  Fungi share the same choaflagellate ancestor.
+  
+  > The cell walls are made of chitin (fibruss substance).
+  
+  > Fungi absorbs nutriments from its surface (substrate).
+  
+  > They release digestive enzymes.
+  
+  > They are the primarily decomposer in the forest.
+  
+  > They appeard 440 m.y.a., at the same time vasicular plants appeard.
+  
+  > Here's the anatomy of a fungi:
+  ![alt text](lecture_data/mush_anatomy.png "Fungi anatomy")
