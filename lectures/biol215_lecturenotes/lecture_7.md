@@ -29,7 +29,7 @@
 
 | Change name | Characteristics | Example |
 |:------------|:----------------|---------|
-| Ancestral Colonial Choanoflagellates | They are either solitary or colonial. They have flagella. They are heterotroph, meaning they can't produce their own food. They eat food by moving water towards them. |   ![alt text](lecture_data/Choanoflagellate_sol.png "Solitary Choanoflagellates") ![alt text](lecture_data/Choanoflagellate_col.png "Colonial Choanoflagellates") |
+| Ancestral Colonial Choanoflagellates | * They are either solitary or colonial.<\br> * They have flagella.<\br> * They are heterotroph, meaning they can't produce their own food.<\br> * They eat food by moving water towards them. |   ![alt text](lecture_data/Choanoflagellate_sol.png "Solitary Choanoflagellates") ![alt text](lecture_data/Choanoflagellate_col.png "Colonial Choanoflagellates") |
 
 
 ## Plants
