@@ -1,4 +1,4 @@
-# Modern Diversity 2
+# Micro Evolution 1
 
 
 ##  Individual Genetic Variation and Gene Regulation
@@ -74,22 +74,25 @@
   > We can observe species of butterflies that changes colors depending on seasons.
 
 
+## Variation Equation
 
+  > There are different type of mutation. Each of these mutation can happend at different regions within a single gene. And all genes can be affected by mutation.
+  
+  > Mutation (M): point mutation, chromosomal rearrangements, transpositions.<\br>
+    Gene region (GR): protein encoding, regulatory, porttranscriptional modifications<\br>
+    Genes (G): house keeping, upstream, downstream, reguatory<\br>
+    Environment (E): phenotic plasticity
+    
+### Equation 
 
-# *__I am at slide #48
+  > Mutations * Gene region * Genes * Environment = different combinations of phenotic expressions 
+  
+  > On one hand the variation propose new features, and the selection dispose of not required features.
+  
+  > Assuming that all possible combinations of phenotic expressions can be found in a 4-dimensional space (M, GR, G, E), each variable in the equation can influence the result, this making the output move around in the 4-D space.
+  
+##### Examples
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  > __Environment:__ The size of the eye (mesured by number of cells) depends on the temperature where the organism lives.
+  
+  > __Genetic Background:__ Phenotic expression of a wing depends on the genetic background.
